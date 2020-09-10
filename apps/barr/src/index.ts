@@ -1,0 +1,1 @@
+export const barr = 1;

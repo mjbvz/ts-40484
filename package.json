@@ -1,0 +1,19 @@
+{
+  "name": "san",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjbvz/test-repo/issues"
+  },
+  "homepage": "https://github.com/mjbvz/test-repo#readme",
+  "dependencies": {
+    "typescript": "^4.1.0-dev.20200910"
+  }
+}
